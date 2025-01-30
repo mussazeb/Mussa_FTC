@@ -114,66 +114,6 @@ public class motors extends OpMode {
                 break;
             }
         }
-        Hekknsjadnas
-        while (gamepad1.a || gamepad1.b) {
-            if (gamepad1.a) {
-                mainaxel.setPosition(0);
-                break;
-            }
-            else if (gamepad1.b) {
-                mainaxel.setPosition(1);
-                break;
-            }
-        }
-        while (gamepad1.a || gamepad1.b) {
-            if (gamepad1.a) {
-                mainaxel.setPosition(0);
-                break;
-            }
-            else if (gamepad1.b) {
-                mainaxel.setPosition(1);
-                break;
-            }
-        }
-        while (gamepad1.a || gamepad1.b) {
-            if (gamepad1.a) {
-                mainaxel.setPosition(0);
-                break;
-            }
-            else if (gamepad1.b) {
-                mainaxel.setPosition(1);
-                break;
-            }
-        }while (gamepad1.a || gamepad1.b) {
-            if (gamepad1.a) {
-                mainaxel.setPosition(0);
-                break;
-            }
-            else if (gamepad1.b) {
-                mainaxel.setPosition(1);
-                break;
-            }
-        }
-        while (gamepad1.a || gamepad1.b) {
-            if (gamepad1.a) {
-                mainaxel.setPosition(0);
-                break;
-            }
-            else if (gamepad1.b) {
-                mainaxel.setPosition(1);
-                break;
-            }
-        }
-
-
-
-
-
-
-
-
-
-
     }
 
 }
